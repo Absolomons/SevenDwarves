@@ -1,0 +1,15 @@
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\bin\Debug\net6.0\SevenDwarves.exe
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\bin\Debug\net6.0\SevenDwarves.deps.json
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\bin\Debug\net6.0\SevenDwarves.runtimeconfig.json
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\bin\Debug\net6.0\SevenDwarves.dll
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\bin\Debug\net6.0\SevenDwarves.pdb
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.csproj.AssemblyReference.cache
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.AssemblyInfoInputs.cache
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.AssemblyInfo.cs
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.csproj.CoreCompileInputs.cache
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.dll
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\refint\SevenDwarves.dll
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.pdb
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\SevenDwarves.genruntimeconfig.cache
+C:\Users\ander\source\repos\Absolomons\VisualStudio\DAB\SevenDwarves\SevenDwarves\obj\Debug\net6.0\ref\SevenDwarves.dll
