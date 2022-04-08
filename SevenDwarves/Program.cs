@@ -38,7 +38,6 @@ while (dwarvesList.Count<2)
                 dwarvesList.Add(new Sleepy());
             }
             break;
-
     }
 }
 

@@ -9,13 +9,11 @@ namespace SevenDwarves
 {
     public interface IDwarves
     {
-
         void ReactLastOnList();
 
         void ReactCallDwarf();
 
         void ReactRemoveDwarf(IDwarves dwarf);
-
     }
 
     public class Sleepy:IDwarves
